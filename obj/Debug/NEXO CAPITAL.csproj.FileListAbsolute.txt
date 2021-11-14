@@ -1,0 +1,150 @@
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\NEXO CAPITAL.dll.config
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\NEXO CAPITAL.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\NEXO CAPITAL.pdb
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\csc.exe
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\csc.exe.config
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\csc.rsp
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\csi.exe
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\csi.exe.config
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\csi.rsp
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.AppContext.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Console.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.IO.Compression.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Net.Http.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.ValueTuple.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\vbc.exe
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\vbc.exe.config
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\vbc.rsp
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\Antlr3.Runtime.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\Newtonsoft.Json.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\System.Web.Optimization.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\WebGrease.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\System.Web.Optimization.xml
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\Newtonsoft.Json.xml
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\Antlr3.Runtime.pdb
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\obj\Debug\NEXO CAPITAL.csproj.CoreCompileInputs.cache
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\obj\Debug\NEXO CAPITAL.dll
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\obj\Debug\NEXO CAPITAL.pdb
+C:\Users\Iván Camacho\Desktop\NEXO Capital\NEXO CAPITAL\obj\Debug\NEXO CAPITAL.csproj.AssemblyReference.cache
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\NEXO CAPITAL.dll.config
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\NEXO CAPITAL.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\NEXO CAPITAL.pdb
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\csc.exe
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\csc.exe.config
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\csc.rsp
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\csi.exe
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\csi.exe.config
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\csi.rsp
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.AppContext.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Console.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.IO.Compression.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Net.Http.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.ValueTuple.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\vbc.exe
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\vbc.exe.config
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\vbc.rsp
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\Antlr3.Runtime.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\Newtonsoft.Json.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\System.Web.Optimization.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\WebGrease.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\System.Web.Optimization.xml
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\Newtonsoft.Json.xml
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\Antlr3.Runtime.pdb
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\obj\Debug\NEXO CAPITAL.csproj.AssemblyReference.cache
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\obj\Debug\NEXO CAPITAL.csproj.CoreCompileInputs.cache
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\obj\Debug\NEXO CAPITAL.dll
+C:\Users\Iván Camacho\Desktop\NEXO\NEXO CAPITAL\obj\Debug\NEXO CAPITAL.pdb
